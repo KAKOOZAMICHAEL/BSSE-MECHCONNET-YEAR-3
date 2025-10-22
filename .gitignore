@@ -1,0 +1,24 @@
+
+# IDE files
+.idea/
+.gradle/
+build/
+*.iml
+*.hprof
+local.properties
+
+# Android Studio
+captures/
+.externalNativeBuild/
+*.apk
+*.aab
+
+# Mac
+.DS_Store
+
+# Google services
+google-services.json
+
+# Secrets
+secrets.properties
+secrets.gradle.properties

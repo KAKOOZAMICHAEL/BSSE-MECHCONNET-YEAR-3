@@ -1,0 +1,24 @@
+
+<resources>
+    <string name="app_name">MechConnect</string>
+
+    <!-- Login Screen -->
+    <string name="welcome_to_mechconnect">Welcome to MechConnect</string>
+    <string name="enter_phone_to_continue">Enter your phone number to continue</string>
+    <string name="phone_number_hint">771 234 567</string>
+    <string name="country_code">+256</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="or_continue_with">Or continue with</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="terms_and_conditions">By continuing, you agree to MechConnect's Terms of Service and Privacy Policy.</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="otp">OTP</string>
+    <string name="verify">Verify</string>
+    <string name="otp_sent">OTP Sent</string>
+    <string name="help">Help</string>
+
+    <!-- Google Sign-In -->
+    <string name="default_web_client_id">286378715749-voqbt3c9qpc8vhfm2ll34mia7019m1v5.apps.googleusercontent.com</string>
+
+</resources>
